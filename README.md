@@ -4,6 +4,16 @@ An AI-powered research assistant built using LangChain, Groq, Tavily, WeatherSta
 
 The application uses a ReAct-based agent that can decide which tool to use based on the user's request.
 
+## 🖥️ Application Preview
+
+### Main Interface
+
+![Main Interface](assets/dashboard.png)
+
+### Conversational Memory
+
+![Conversation Memory](assets/conversation-memory.png)
+
 ## 🚀 Features
 
 - Conversational AI interface using Streamlit
