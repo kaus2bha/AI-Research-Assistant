@@ -12,7 +12,7 @@ The application uses a ReAct-based agent that can decide which tool to use based
 
 ### Conversational Memory
 
-![Conversation Memory](assets/conversation-memory.png)
+![Conversation Memory](assets/conversational-memory.png)
 
 ## 🚀 Features
 
