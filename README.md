@@ -8,7 +8,7 @@ The application uses a ReAct-based agent that can decide which tool to use based
 
 ### Main Interface
 
-![Main Interface](assets/dashboard.png)
+![Main Interface](assets/Dashboard.png)
 
 ### Conversational Memory
 
